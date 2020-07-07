@@ -28,3 +28,4 @@ No Graded Assignment or Quiz
 
 ### Programming Assignments
 - [Assignment: Colon Operators](week-3/colon_operators.m)
+- [Assignment: Matrix Indexing](week-3/matrix_indexing.m)
