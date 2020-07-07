@@ -17,9 +17,9 @@ __By Vanderbilt University__
 
 
 ## Week 1
-### Quizzes
 
 ### Programming Assignments
+- [MATLAB as a Calculator](week-1/program1.m)
 
 ## Week 2
 ### Quizzes
