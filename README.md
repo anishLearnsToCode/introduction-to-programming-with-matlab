@@ -4,7 +4,7 @@ __By Vanderbilt University__
 ## Index
 | Week | Links | 
 |:----:|:-----:|
-| [Week 1](#week-1) | |
+| [Week 1](#week-1) | _-- No Quiz or Assignment --_|
 | [Week 2](#week-2) | [[Programming Assignments]](#programming-assignments) |
 | [Week 3](#week-3) | [[Quizzes]](#quizzes-2)    [[Programming Assignments]](#programming-assignments-2) |
 | [Week 4](#week-4) | [[Quizzes]](#quizzes-3)    [[Programming Assignments]](#programming-assignments-3) |
