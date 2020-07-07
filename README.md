@@ -35,6 +35,7 @@ No Graded Assignment or Quiz
 ## Week 4: Functions
 ### Programming Assignments
 - [Assignment: A Simple Function](week-4/tri_area.m)
+- [Asignment: Multiple Outputs](week-4/corners.m)
 
 ### Quizzes
 
