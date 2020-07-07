@@ -20,6 +20,7 @@ __By Vanderbilt University__
 
 ### Programming Assignments
 - [MATLAB as a Calculator](week-1/program1.m)
+- [Lesson 1 Wrap-Up](week-1/lesson_1_wrap_up.m)
 
 ## Week 2
 ### Quizzes
