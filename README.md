@@ -25,6 +25,7 @@ No Graded Assignment or Quiz
 
 ## Week 3
 ### Quizzes
+- [Lesson 2 Wrap Up](week-3/lesson-2-wrap-up.md)
 
 ### Programming Assignments
 - [Assignment: Colon Operators](week-3/colon_operators.m)
