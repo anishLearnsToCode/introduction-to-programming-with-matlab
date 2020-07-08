@@ -68,3 +68,4 @@ No Graded Assignment or Quiz
 - [Assignment: Text Files](week-9/char_counter.m)
 - [Assignment: Saddle Points](week-9/saddle.m)
 - [Assignment: Image Blur](week-9/blur.m)
+- [Assignment: Echo Generator](week-9/echo_gen.m)
