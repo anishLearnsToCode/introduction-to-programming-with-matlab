@@ -4,15 +4,15 @@ __By Vanderbilt University__
 ## Index
 | Week | Links | 
 |------|-------|
-| [Week 1: Course Pages](#week-1) | _-- No Quiz or Assignment --_|
-| [Week 2: The MATLAB Environment](#week-2) | [[Programming Assignments]](#programming-assignments) |
-| [Week 3: Matrices and Operators](#week-3) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
-| [Week 4: Functions](#week-4) | [[Programming Assignments]](#programming-assignments-2) |
-| [Week 5: Programmer's Toolbox](#week-5) | [[Programming Assignments]](#programming-assignments-3) |
-| [Week 6: Selection](#week-6) | [[Programming Assignments]](#programming-assignments-4) |
-| [Week 7: Loops](#week-7) | [[Programming Assignments]](#programming-assignments-5) |
-| [Week 8: Data Types](#week-8) | [[Programming Assignments]](#programming-assignments-6) |
-| [Week 9: File Input/Output](#week-9) | [[Programming Assignments]](#programming-assignments-7) |
+| [Week 1: Course Pages](week-1-course-pages) | _-- No Quiz or Assignment --_|
+| [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) | [[Programming Assignments]](#programming-assignments) |
+| [Week 3: Matrices and Operators](#week-3-matrices-and-operators) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
+| [Week 4: Functions](#week-4-functions) | [[Programming Assignments]](#programming-assignments-2) |
+| [Week 5: Programmer's Toolbox](#week-5-programmers-toolbox) | [[Programming Assignments]](#programming-assignments-3) |
+| [Week 6: Selection](#week-6-selection) | [[Programming Assignments]](#programming-assignments-4) |
+| [Week 7: Loops](#week-7-loops) | [[Programming Assignments]](#programming-assignments-5) |
+| [Week 8: Data Types](#week-8-data-types) | [[Programming Assignments]](#programming-assignments-6) |
+| [Week 9: File Input/Output](#week-9-file-inputoutput) | [[Programming Assignments]](#programming-assignments-7) |
 
 
 ## Week 1: Course Pages
