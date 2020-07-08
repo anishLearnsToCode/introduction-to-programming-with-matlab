@@ -53,7 +53,7 @@ No Graded Assignment or Quiz
 ## Week 7: Loops
 ### Programming Assignments
 - [Assignment: for-loop Practice](week-7/halfsum.m)
-- [Assignment: ]()
+- [Assignment: while-loop Practice](week-7/next_prime.m)
 - [Assignment: ]()
 
 ## Week 8: Data Types
