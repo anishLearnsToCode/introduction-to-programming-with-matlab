@@ -65,3 +65,4 @@ No Graded Assignment or Quiz
 ## Week 9: File Input/Output
 ### Programming Assignments
 - [Assignment: Excel Files](week-9/get_distance.m)
+- [Assignment: Text Files](week-9/char_counter.m)

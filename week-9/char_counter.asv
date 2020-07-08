@@ -1,0 +1,19 @@
+function char_counter(file_name, character)
+    file = fopen(file_name, 'rt');
+    if file < 0
+        char_counter = -1;
+    end
+    
+    line = fgets(file);
+    while ischar(line)
+        fprintf('%s \n', line);
+        line = fgets(file);
+        count = count + frequency(line, character);
+    end
+end
+
+function count = frequency(line, character)
+    for char = line
+        
+    end
+end
