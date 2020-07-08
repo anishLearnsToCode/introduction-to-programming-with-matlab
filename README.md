@@ -46,6 +46,7 @@ No Graded Assignment or Quiz
 ## Week 6: Selection
 ### Programming Assignments
 - [Assignment: If-Statement Practice](week-6/picker.m)
+- [Assignment: More Practice](week-6/eligible.m)
 
 ## Week 7: Loops
 
