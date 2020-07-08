@@ -47,6 +47,7 @@ No Graded Assignment or Quiz
 ### Programming Assignments
 - [Assignment: If-Statement Practice](week-6/picker.m)
 - [Assignment: More Practice](week-6/eligible.m)
+- [Assignment: nargin](week-6/under_age.m)
 
 ## Week 7: Loops
 
