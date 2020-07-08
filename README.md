@@ -9,10 +9,10 @@ __By Vanderbilt University__
 | [Week 3: Matrices and Operators](#week-3) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
 | [Week 4: Functions](#week-4) | [[Programming Assignments]](#programming-assignments-2) |
 | [Week 5: Programmer's Toolbox](#week-5) | [[Programming Assignments]](#programming-assignments-3) |
-| [Week 6](#week-6) | [[Programming Assignments]](#programming-assignments-5) |
-| [Week 7](#week-7) | [[Programming Assignments]](#programming-assignments-6) |
-| [Week 8](#week-8) | [[Programming Assignments]](#programming-assignments-7) |
-| [Week 9](#week-9) | [[Programming Assignments]](#programming-assignments-8) |
+| [Week 6: Selection](#week-6) | [[Programming Assignments]](#programming-assignments-4) |
+| [Week 7: Loops](#week-7) | [[Programming Assignments]](#programming-assignments-5) |
+| [Week 8: Data Types](#week-8) | [[Programming Assignments]](#programming-assignments-6) |
+| [Week 9: File Input/Output](#week-9) | [[Programming Assignments]](#programming-assignments-7) |
 
 
 ## Week 1: Course Pages
@@ -58,6 +58,9 @@ No Graded Assignment or Quiz
 - [Lesson 6 Wrap-Up](week-7/max_sum.m)
 
 ## Week 8: Data Types
-
+### Programming Assignments
+- [Assignment: Character Vectors](week-8/caesar.m)
+- [Assignment: ]()
+- [Assignment: ]()
 
 ## Week 9: File Input/Output
