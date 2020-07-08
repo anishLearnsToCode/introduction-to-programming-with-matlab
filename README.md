@@ -55,6 +55,7 @@ No Graded Assignment or Quiz
 - [Assignment: for-loop Practice](week-7/halfsum.m)
 - [Assignment: while-loop Practice](week-7/next_prime.m)
 - [Assignment: Logical Indexing](week-7/freezing.m)
+- [Lesson 6 Wrap-Up](week-7/max_sum.m)
 
 ## Week 8: Data Types
 
