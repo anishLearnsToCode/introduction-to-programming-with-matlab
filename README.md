@@ -67,3 +67,4 @@ No Graded Assignment or Quiz
 - [Assignment: Excel Files](week-9/get_distance.m)
 - [Assignment: Text Files](week-9/char_counter.m)
 - [Assignment: Saddle Points](week-9/saddle.m)
+- [Assignment: Image Blur](week-9/blur.m)
