@@ -10,9 +10,9 @@ __By Vanderbilt University__
 | [Week 4: Functions](#week-4) | [[Programming Assignments]](#programming-assignments-2) |
 | [Week 5: Programmer's Toolbox](#week-5) | [[Programming Assignments]](#programming-assignments-3) |
 | [Week 6](#week-6) | [[Programming Assignments]](#programming-assignments-5) |
-| [Week 7](#week-7) | [[Quizzes]](#quizzes-6)    [[Programming Assignments]](#programming-assignments-6) |
-| [Week 8](#week-8) | [[Quizzes]](#quizzes-7)    [[Programming Assignments]](#programming-assignments-7) |
-| [Week 9](#week-9) | [[Quizzes]](#quizzes-8)    [[Programming Assignments]](#programming-assignments-8) |
+| [Week 7](#week-7) | [[Programming Assignments]](#programming-assignments-6) |
+| [Week 8](#week-8) | [[Programming Assignments]](#programming-assignments-7) |
+| [Week 9](#week-9) | [[Programming Assignments]](#programming-assignments-8) |
 
 
 ## Week 1: Course Pages
@@ -51,7 +51,10 @@ No Graded Assignment or Quiz
 - [Assignment: Lesson 5 Wrap-Up](week-6/valid_date.m)
 
 ## Week 7: Loops
-
+### Programming Assignments
+- [Assignment: for-loop Practice](week-7/halfsum.m)
+- [Assignment: ]()
+- [Assignment: ]()
 
 ## Week 8: Data Types
 
