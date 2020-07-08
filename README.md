@@ -6,10 +6,10 @@ __By Vanderbilt University__
 |------|-------|
 | [Week 1: Course Pages](#week-1) | _-- No Quiz or Assignment --_|
 | [Week 2: The MATLAB Environment](#week-2) | [[Programming Assignments]](#programming-assignments) |
-| [Week 3: Matrices and Operators](#week-3) | [[Quizzes]](#quizzes)    [[Programming Assignments]](#programming-assignments-1) |
+| [Week 3: Matrices and Operators](#week-3) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
 | [Week 4: Functions](#week-4) | [[Programming Assignments]](#programming-assignments-2) |
 | [Week 5: Programmer's Toolbox](#week-5) | [[Programming Assignments]](#programming-assignments-3) |
-| [Week 6](#week-6) | [[Quizzes]](#quizzes-5)    [[Programming Assignments]](#programming-assignments-5) |
+| [Week 6](#week-6) | [[Programming Assignments]](#programming-assignments-5) |
 | [Week 7](#week-7) | [[Quizzes]](#quizzes-6)    [[Programming Assignments]](#programming-assignments-6) |
 | [Week 8](#week-8) | [[Quizzes]](#quizzes-7)    [[Programming Assignments]](#programming-assignments-7) |
 | [Week 9](#week-9) | [[Quizzes]](#quizzes-8)    [[Programming Assignments]](#programming-assignments-8) |
@@ -48,6 +48,7 @@ No Graded Assignment or Quiz
 - [Assignment: If-Statement Practice](week-6/picker.m)
 - [Assignment: More Practice](week-6/eligible.m)
 - [Assignment: nargin](week-6/under_age.m)
+- [Assignment: Lesson 5 Wrap-Up](week-6/valid_date.m)
 
 ## Week 7: Loops
 
