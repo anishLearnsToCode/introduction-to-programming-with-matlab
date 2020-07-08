@@ -60,7 +60,7 @@ No Graded Assignment or Quiz
 ## Week 8: Data Types
 ### Programming Assignments
 - [Assignment: Character Vectors](week-8/caesar.m)
-- [Assignment: ]()
+- [Assignment: Using Cell Arrays](week-8/sparse2matrix.m)
 - [Assignment: ]()
 
 ## Week 9: File Input/Output
