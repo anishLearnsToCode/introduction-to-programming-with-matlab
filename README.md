@@ -41,6 +41,7 @@ No Graded Assignment or Quiz
 ## Week 5: Programmer's Toolbox
 ### Programming Assignments
 - [Assignment: Built-In Functions](week-5/minimax.m)
+- [Assignment: Matrix Construction](week-5/trio.m)
 
 ## Week 6: Selection
 
