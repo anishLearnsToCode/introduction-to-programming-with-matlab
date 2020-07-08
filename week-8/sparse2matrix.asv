@@ -1,6 +1,0 @@
-function matrix= sparse2matrix(sparse_matrix)
-    dimensions = cell2mat(sparse_matrix(1));
-    n = dimensions(1); m = dimensions(2);
-    default = sparse_matrix(2);
-    matrix = default * ones(n, m);
-end
