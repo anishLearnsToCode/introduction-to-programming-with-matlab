@@ -1,6 +1,10 @@
 # Introduction to Programming with MATLAB
 __By Vanderbilt University__
 
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/introduction-to-programming-with-matlab.svg)
+![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
+[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+
 ## Index
 | Week | Links | 
 |------|-------|
