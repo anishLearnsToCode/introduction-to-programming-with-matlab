@@ -1,6 +1,6 @@
 # Introduction to Programming with MATLAB ~ Vanderbilt University
 
-[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-fe4523.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-fe4523.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 
 ## Index
