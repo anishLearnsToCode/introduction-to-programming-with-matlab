@@ -3,18 +3,17 @@
 [![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-fe4523.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 
-## Index
-| Week | Links | 
-|------|-------|
-| [Week 1: Course Pages](week-1-course-pages) | _-- No Quiz or Assignment --_|
-| [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) | [[Programming Assignments]](#programming-assignments) |
-| [Week 3: Matrices and Operators](#week-3-matrices-and-operators) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
-| [Week 4: Functions](#week-4-functions) | [[Programming Assignments]](#programming-assignments-2) |
-| [Week 5: Programmer's Toolbox](#week-5-programmers-toolbox) | [[Programming Assignments]](#programming-assignments-3) |
-| [Week 6: Selection](#week-6-selection) | [[Programming Assignments]](#programming-assignments-4) |
-| [Week 7: Loops](#week-7-loops) | [[Programming Assignments]](#programming-assignments-5) |
-| [Week 8: Data Types](#week-8-data-types) | [[Programming Assignments]](#programming-assignments-6) |
-| [Week 9: File Input/Output](#week-9-file-inputoutput) | [[Programming Assignments]](#programming-assignments-7) |
+## 📖 Overview
+- [Week 1: Course Pages](week-1-course-pages) 
+- [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) 
+- [Week 3: Matrices and Operators](#week-3-matrices-and-operators) 
+- [Week 4: Functions](#week-4-functions)
+- [Week 5: Programmer's Toolbox](#week-5-programmers-toolbox)
+- [Week 6: Selection](#week-6-selection) 
+- [Week 7: Loops](#week-7-loops) 
+- [Week 8: Data Types](#week-8-data-types) 
+- [Week 9: File Input/Output](#week-9-file-inputoutput)
+- [Certificate](#-certificate)
 
 
 ## Week 1: Course Pages
@@ -71,3 +70,6 @@ No Graded Assignment or Quiz
 - [Assignment: Saddle Points](week-9/saddle.m)
 - [Assignment: Image Blur](week-9/blur.m)
 - [Assignment: Echo Generator](week-9/echo_gen.m)
+
+## 🎓 [Certificate](http://coursera.org/verify/3S3AANA8JQTN)
+![certificate](assets/certificate.png)
