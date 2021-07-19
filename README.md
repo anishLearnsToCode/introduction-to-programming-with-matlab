@@ -3,6 +3,8 @@
 [![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-fe4523.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 
+📹[My YouTube Channel](https://www.youtube.com/channel/UC6zEtIjpypm8gADSdHMP5vg)
+
 ## 📖 Overview
 - [Week 1: Course Pages](week-1-course-pages) 
 - [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) 
